@@ -1,2 +1,2 @@
 # hello-world
-Hello World tutorial repository
+Hi people. I am Alpin Yalci. I am trying to be a web developer.
